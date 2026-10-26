@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlowSMS</string>
+    <string name="search_hint">جستجو در پیام‌ها</string>
+    <string name="new_message">پیام جدید</string>
+    <string name="to_hint">به: شماره تلفن</string>
+    <string name="type_message">پیام</string>
+    <string name="empty">هنوز گفتگویی نیست.\nبرای شروع روی + بزنید.</string>
+    <string name="need_perm">برای دیدن پیام‌ها دسترسی SMS را مجاز کنید.\nاینجا بزنید.</string>
+    <string name="set_default">برای پیش‌فرض شدن FlowSMS به‌عنوان برنامه‌ی پیامک اینجا بزنید</string>
+    <string name="default_needed">برای ارسال پیام، FlowSMS را برنامه‌ی پیش‌فرض پیامک کنید</string>
+    <string name="mark_read">علامت‌گذاری به‌عنوان خوانده‌شده</string>
+    <string name="delete">حذف</string>
+    <string name="delete_confirm">این گفتگو حذف شود؟</string>
+    <string name="cancel">انصراف</string>
+    <string name="copy">کپی</string>
+    <string name="copied">کپی شد</string>
+    <string name="resend">ارسال مجدد</string>
+    <string name="failed">ناموفق</string>
+    <string name="sending">در حال ارسال…</string>
+    <string name="send_failed">پیام ارسال نشد</string>
+    <string name="channel">پیام‌ها</string>
+    <string name="enter_number">شماره تلفن را وارد کنید</string>
+</resources>
