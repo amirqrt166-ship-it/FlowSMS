@@ -137,7 +137,7 @@ class ThreadActivity : Activity() {
         list = ListView(this).apply {
             divider = null; dividerHeight = 0
             setSelector(android.R.color.transparent)
-            stackFromBottom = true
+            setStackFromBottom(true)
             transcriptMode = ListView.TRANSCRIPT_MODE_ALWAYS_SCROLL
             clipToPadding = false; setPadding(0, dp(6), 0, dp(6))
             adapter = ad
